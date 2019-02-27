@@ -1,0 +1,11 @@
+server:
+    context-path: /user
+    port: 8099
+spring:
+    application:
+        name: BootMongo
+    data:
+        mongodb:
+            database: question
+            host: localhost
+            port: 27017

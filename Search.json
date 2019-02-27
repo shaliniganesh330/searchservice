@@ -1,0 +1,209 @@
+{
+"topic":"Angular",
+"questions":[
+{
+"question": "what is angular?",
+"description":"common question about angular",
+"upvotes":1,
+"timestamp":456789,
+"downvote":0,
+"answers":[
+	  {
+	   "answer":"Angular is a platform that makes it easy to build applications with the web. Angular combines declarative templates, dependency injection, end to end tooling, and integrated best practices to solve development challenges. Angular empowers developers to build applications that live on the web, mobile, or the desktop.",
+		  "accepted":"true",
+	   "comments":[
+		     {
+			"comment":"okay answer",
+			"timestamp":234567,
+			"likes":5,
+			"replies":[
+				 {
+				  "reply":"elaborate more",
+				   "likes":2,
+				   "timestamp":789065,
+                                   "user":{
+                                        "firstname":"Zakir",
+                                        "emailaddress":"zakir@gmail.com",
+                                        "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                                        }
+				 }
+				],
+                        "user":{
+                             "firstname":"zakir",
+                             "emailaddress":"zakir@gmail.com",
+                             "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                             }
+		     }
+		    ],
+	   "upvotes":6,
+	   "views":2,
+	   "timestamp":6789023,
+           "user":{
+                "firstname":"sajal",
+                "emailaddress":"sajal@gmail.com",
+                "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                }
+
+			}
+			],
+
+"comments":[
+	  {
+	   "comment":"helpful",
+	   "timestamp":456789,
+	   "likes":1,
+	   "replies":[
+		    {
+		    "reply":2,
+		    "likes":3,
+		    "timestamp":234567
+		    }
+		   ]
+	  }
+	],
+"user":{
+     "firstname":"Reshma",
+     "emailaddress":"reshma@gmail.com",
+     "imageurl":"https://www.w3schools.com/angular/pic_angular.jpg"
+     }
+},
+
+  
+  {
+"question": "what is angularJS?",
+"description":"commanly asked question",
+"upvotes":3,
+"timestamp":678905,
+"downvote":2,
+"answers":[
+	  {
+	   "answer":"AngularJS is a JavaScript-based open-source front-end web framework mainly maintained by Google and by a community of individuals and corporations to address many of the challenges encountered in developing single-page applications.",
+           "accepted":"true",
+	   "comments":[
+		     {
+			"comment":"okay answer",
+			"timestamp":234567,
+			"likes":5,
+			"replies":[
+				 {
+				  "reply":"elaborate more",
+				   "likes":2,
+				   "timestamp":789065,
+                                   "user":{
+                                        "firstname":"Zakir",
+                                        "emailaddress":"zakir@gmail.com",
+                                        "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                                        }
+				 }
+				],
+                        "user":{
+                             "firstname":"zakir",
+                             "emailaddress":"zakir@gmail.com",
+                             "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                             }
+		     }
+		    ],
+	   "upvotes":6,
+	   "views":2,
+	   "timestamp":6789023,
+           "user":{
+                "firstname":"sajal",
+                "emailaddress":"sajal@gmail.com",
+                "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                }
+
+			}
+			],
+
+"comments":[
+	  {
+	   "comment":"helpful",
+	   "timestamp":456789,
+	   "likes":1,
+	   "replies":[
+		    {
+		    "reply":2,
+		    "likes":3,
+		    "timestamp":234567
+		    }
+		   ]
+	  }
+	],
+"user":{
+     "firstname":"Reshma",
+     "emailaddress":"reshma@gmail.com",
+     "imageurl":"https://www.w3schools.com/angular/pic_angular.jpg"
+     }
+
+},
+ {
+"question": "Explain ng-bind directive.",
+"description":"commanly asked question",
+"upvotes":3,
+"timestamp":678905,
+"downvote":2,
+"answers":[
+	  {
+	   "answer":"The ng-bind directive tells AngularJS to replace the content of an HTML element with the value of a given variable, or expression.",
+           "accepted":"true",
+	   "comments":[
+		     {
+			"comment":"okay answer",
+			"timestamp":234567,
+			"likes":5,
+			"replies":[
+				 {
+				  "reply":"elaborate more",
+				   "likes":2,
+				   "timestamp":789065,
+                                   "user":{
+                                        "firstname":"Zakir",
+                                        "emailaddress":"zakir@gmail.com",
+                                        "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                                        }
+				 }
+				],
+                        "user":{
+                             "firstname":"zakir",
+                             "emailaddress":"zakir@gmail.com",
+                             "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                             }
+		     }
+		    ],
+	   "upvotes":6,
+	   "views":2,
+	   "timestamp":6789023,
+           "user":{
+                "firstname":"sajal",
+                "emailaddress":"sajal@gmail.com",
+                "imageurl":"https://i.ebayimg.com/images/g/vlUAAOxyx0JTf9Cg/s-l300.jpg"
+                }
+
+			}
+			],
+
+"comments":[
+	  {
+	   "comment":"helpful",
+	   "timestamp":456789,
+	   "likes":1,
+	   "replies":[
+		    {
+		    "reply":2,
+		    "likes":3,
+		    "timestamp":234567
+		    }
+		   ]
+	  }
+	],
+"user":{
+     "firstname":"Reshma",
+     "emailaddress":"reshma@gmail.com",
+     "imageurl":"https://www.w3schools.com/angular/pic_angular.jpg"
+     }
+
+}
+
+
+]
+}
